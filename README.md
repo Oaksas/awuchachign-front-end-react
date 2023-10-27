@@ -1,7 +1,6 @@
 # Awuchachign Gebeya
 
-A web frontend application built with React.js that serves as "Awuchachgn Mahiber", which is a term in Ethiopa to refer people gathering and contribution to help the less fortuante.
-
+a web frontend application for a simple image sharing social media with full functionality of Like, Pin, and other.
 ## Available Scripts
 
 In the project directory, you can run:
