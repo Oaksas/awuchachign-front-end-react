@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Awuchachign Gebeya
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A web frontend application built with React.js that serves as "Awuchachgn Mahiber", which is a term in Ethiopa to refer people gathering and contribution to help the less fortuante.
 
 ## Available Scripts
 
