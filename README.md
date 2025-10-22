@@ -1,6 +1,6 @@
 # Awuchachign Gebeya
 
-a web frontend application for a simple image sharing social media with full functionality of Like, Pin, and other.
+A simple image sharing social media with full functionality of like, pin, and other social media functionalities.
 ## Available Scripts
 
 In the project directory, you can run:
